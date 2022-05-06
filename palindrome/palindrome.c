@@ -1,7 +1,14 @@
 #include <stdio.h>
 
 int main(){
-    int number = 232;
+    int number;
+
+    do
+    {
+        printf("Insert a number: ");
+        scanf("%d", &number);
+    } while (number <= 0);
+    
     int holder;
     int remainder;
     int result = 0;
