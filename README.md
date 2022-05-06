@@ -13,13 +13,13 @@ The program prints a given array in reversed order.
 The program returns the factorial of a given number.
 
 ## palindrome/
-### palindrome
+### palindrome.exe
 The program checks if a number wether is palindrome or not.
 
 ## palindrome/
-### pyramid
+### pyramid.exe
 The program prints a pyramid of your choice size and position on the screen.
-### right-pyramid
+### right-pyramid.exe
 Prints a pyramid towards to right.
-### left-pyramid
+### left-pyramid.exe
 Prints a pyramid towards to left.
