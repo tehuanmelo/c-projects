@@ -16,7 +16,7 @@ The program returns the factorial of a given number.
 ### palindrome.exe
 The program checks if a number wether is palindrome or not.
 
-## palindrome/
+## pyramids/
 ### pyramid.exe
 The program prints a pyramid of your choice size and position on the screen.
 ### right-pyramid.exe
