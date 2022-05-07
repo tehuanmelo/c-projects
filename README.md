@@ -23,3 +23,7 @@ The program prints a pyramid of your choice size and position on the screen.
 Prints a pyramid towards to right.
 ### left-pyramid.exe
 Prints a pyramid towards to left.
+
+## repeated/
+## repeated.exe
+The program checks if there is any repeated digits in a number.
